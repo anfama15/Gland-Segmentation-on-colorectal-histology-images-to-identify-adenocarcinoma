@@ -16,5 +16,5 @@ ttps://warwick.ac.uk/fac/cross_fac/tia/data/glascontest/download/
 
 Extracted features from the images, trained ML classifier models and run prediction on them.
 
-The classifier that to used are K-NN Classifier, Naïve Bayes Classifier, Decision Tree Classifier and Random Forest Classifier.
+The classifier that are used are K-NN Classifier, Naïve Bayes Classifier, Decision Tree Classifier and Random Forest Classifier.
 
